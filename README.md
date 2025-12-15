@@ -34,7 +34,4 @@ This project is developed as an **academic mini-project** to demonstrate practic
 - **Pandas**
 - **socket, ipaddress, subprocess**
 
----
-
-## 📂 Project Structure
 
